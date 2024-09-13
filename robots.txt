@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tiserate.github.io/sitemap.html.gz
+Sitemap: https://tiserate.github.io/app/sitemap.html.gz
+Sitemap: https://tiserate.github.io/assets/sitemap.html.gz
+Sitemap: https://tiserate.github.io/css/sitemap.html.gz
+Sitemap: https://tiserate.github.io/includes/sitemap.html.gz
+Sitemap: https://tiserate.github.io/item/sitemap.html.gz
+Sitemap: https://tiserate.github.io/src/sitemap.html.gz
